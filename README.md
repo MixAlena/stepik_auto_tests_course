@@ -1,6 +1,8 @@
 # stepik_auto_tests_course
-Auto tests by Selenium and Python
+Выполнение практических заданий по видеоурокам:
+API Test + Postman
+Selenium Webdriver
+PyTest
 
-https://stepik.org/lesson/187065/step/7?unit=161976
-
-Chenges from home
+Прохождение практических заданий по автоматизированному тестированию с платформы Stepik:
+StepikSeleinumCourse
